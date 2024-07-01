@@ -1,0 +1,4 @@
+train: ..\exp/yolo/train\images
+val: ..\exp/yolo/test\images
+nc: 2
+names: [ 'rbc', 'wbc']
